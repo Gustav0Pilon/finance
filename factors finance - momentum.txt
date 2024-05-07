@@ -1,0 +1,11 @@
+factors finance - momentum
+
+momentum - ações que performaram bem em x anos vão continuar a ir bem 
+
+exposição a estratégia de momento
+
+
+PEGAR PREÇO DE FECHAMENTO DE AÇÕES (EUA TEM MAIS DADOS)
+ORDENAR POR DATA E TIRAR NAN
+PESQUISAR SOBRE FATORES, MOMENTUM...
+FILTRAR]
